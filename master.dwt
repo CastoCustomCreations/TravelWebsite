@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<meta content="Hawaii,Oahu,Snorkeling,Hiking,Adventure,eco vacation,vacation" name="keywords" />
+<link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	font-size: x-large;
+	font-family: "Arial Black";
+	background-color: #FFFF00;
+}
+.auto-style2 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	color: #800000;
+}
+.auto-style3 {
+	font-size: large;
+}
+.auto-style4 {
+	color: #800080;
+}
+.auto-style5 {
+	text-align: center;
+}
+.auto-style6 {
+	text-align: center;
+	margin-left: 80px;
+}
+</style>
+</head>
+
+<body style="background-image: url('images/Hawaiian-Sunset.jpg'); background-attachment: fixed;">
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1><span class="auto-style1">Oahu snorkeling and hiking adventures</span> </h1>
+		<h3><span class="auto-style2"><span class="auto-style3">Complete your dream vacation with one of our adventures.</span><br class="auto-style3" />
+		</span>
+		<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<span class="auto-style4"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
+		<em>"Be a Traveler not a tourist"</em></span></h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li class="auto-style5"><a href="Home.html">Home</a></li>
+			<li style="width: 61px" class="auto-style5"><a href="Hiking/Hiking.html">Hiking</a></li>
+			<li class="auto-style5">
+			<a href="Snorkeling/Snorkeling.html" style="width: 84px">Snorkeling</a></li>
+			<li class="auto-style5"><a href="Videos/Videos.html">Videos</a></li>
+			<li class="auto-style5"><a href="photo_gallery/photos.html">Photo Gallery</a></li>
+			<li class="auto-style5"><a href="information_links/Links.html">Pricing and Links</a></li>
+			<li class="auto-style5"><a href="faq/faq.html">FAQ</a></li>
+			<li class="auto-style5"><a href="Contact/Contact.html">Contact</a></li>
+		</ul>
+	</div>
+	<p class="auto-style6"><br />
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	</p>
+	<div id="footer">
+		<p>&nbsp;</p>
+	</div>
+	<!-- End Footer --></div>
+<p class="auto-style5"><strong>Hawaiian Adventures (888) 555-1212</strong></p>
+<!-- End Container -->
+
+</body>
+
+</html>
